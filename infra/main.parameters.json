@@ -6,7 +6,10 @@
       "value": "${AZURE_ENV_NAME=azurechat-solution}"
     },
     "location": {
-      "value": "${Handson_HIROSHI-SHIBATA}"
+      "value": "${AZURE_LOCATION}"
+    },
+    "resourceGroupName": {
+      "value": "Handson_HIROSHI-SHIBATA"
     }
   }
 }
